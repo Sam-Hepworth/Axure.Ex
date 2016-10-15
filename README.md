@@ -6,4 +6,5 @@ Documentation is here http://dejongh.dk/wiki/doku.php?id=interaction:axure_javas
 ### Release history
 |Version|Notes|
 |:---|:---|
-|Current|Fixed to work with Axure 8.3294|
+|AxureEx-20161015-1|Minor improvements. Works with Axure 8.3318|
+|AxureEx.18|Fixed to work with Axure 8.3294|
