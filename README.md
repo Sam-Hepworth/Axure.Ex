@@ -6,5 +6,6 @@ Documentation is here http://dejongh.dk/wiki/doku.php?id=interaction:axure_javas
 ### Release history
 |Version|Notes|
 |:---|:---|
+|1.2|Repeater functions. Works with Axure 8.3322|
 |1.1.9|Minor improvements. Works with Axure 8.3318|
 |1.1.8|Fixed to work with Axure 8.3294|
